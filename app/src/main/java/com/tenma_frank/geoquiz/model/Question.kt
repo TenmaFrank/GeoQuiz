@@ -1,4 +1,4 @@
-package com.tenma_frank.geoquiz
+package com.tenma_frank.geoquiz.model
 
 import androidx.annotation.StringRes
 

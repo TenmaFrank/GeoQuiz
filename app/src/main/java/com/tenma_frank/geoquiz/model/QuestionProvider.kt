@@ -1,4 +1,6 @@
-package com.tenma_frank.geoquiz
+package com.tenma_frank.geoquiz.model
+
+import com.tenma_frank.geoquiz.R
 
 class QuestionProvider {
 
